@@ -1,0 +1,13 @@
+Triangle.class
+TriangleFactory.class
+SupportStuff.class
+RectangleFactory.class
+SmallFactory.class
+RandomFigureFactory.class
+StreamFigureFactory.class
+Main.class
+Rectangle.class
+CircleFactory.class
+Circle.class
+FigureFactory.class
+Figure.class

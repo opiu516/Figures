@@ -1,0 +1,500 @@
+circle 69.13
+circle 54.32
+circle 38.74
+triangle 89.02 9.76 29.38
+rectangle 35.63 96.17
+circle 97.79
+triangle 6.42 45.37 26.07
+rectangle 5.97 23.97
+rectangle 17.53 70.1
+rectangle 25.42 19.28
+rectangle 14.47 48.02
+circle 24.97
+triangle 93.26 66.06 97.98
+triangle 88.07 60.41 53.78
+rectangle 48.52 59.69
+circle 4.99
+rectangle 4.57 65.92
+rectangle 39.24 62.25
+triangle 13.4 5.84 47.96
+rectangle 67.37 37.99
+circle 68.38
+circle 36.58
+circle 53.07
+triangle 25.19 21.27 36.57
+rectangle 61.36 47.81
+rectangle 54.75 88.83
+circle 82.01
+triangle 48.75 95.71 45.52
+circle 94.15
+circle 75.46
+circle 7.29
+circle 42.61
+circle 1.71
+rectangle 26.63 66.21
+triangle 42.82 67.05 70.32
+circle 24.03
+circle 25.35
+circle 13.21
+rectangle 83.7 43.38
+triangle 35.43 47.28 36.24
+circle 29.54
+circle 61.76
+circle 74.33
+triangle 99.17 70.48 59.41
+circle 32.49
+circle 7.89
+rectangle 17.93 14.12
+triangle 79.46 5.99 81.76
+triangle 34.5 68.36 97.13
+circle 20.96
+triangle 19.97 55.85 76.45
+triangle 12.8 65.31 34.81
+circle 52.52
+rectangle 50.58 37.67
+circle 88.69
+triangle 79.88 85.83 81.16
+triangle 38.69 60.39 32.11
+triangle 29.1 5.26 30.36
+circle 67.39
+rectangle 98.18 6.63
+circle 67.72
+circle 88.25
+rectangle 14.87 32.83
+rectangle 9.19 31.92
+triangle 17.68 49.33 83.72
+triangle 79.44 92.04 70.63
+triangle 53.68 23.15 14.35
+rectangle 88.77 98.96
+circle 79.88
+rectangle 33.52 69.49
+rectangle 85.19 21.6
+circle 6.91
+circle 18.18
+circle 39.37
+circle 22.36
+circle 67.62
+triangle 67.88 90.89 34.95
+triangle 5.69 0.29 50.6
+circle 74.89
+triangle 43.99 44.84 97.63
+rectangle 55.19 66.5
+triangle 60.53 64.93 60.21
+circle 50.91
+circle 91.12
+triangle 1.46 39.13 35.24
+triangle 7.65 99.12 9.85
+rectangle 30.03 8.78
+circle 61.02
+rectangle 92.5 78.95
+triangle 23.47 68.88 90.73
+triangle 31.57 37.64 68.66
+triangle 56.73 85.53 74.22
+rectangle 93.73 99.83
+circle 72.26
+circle 77.83
+rectangle 3.41 72.2
+rectangle 79.09 92.43
+triangle 85.56 80.4 41.64
+triangle 0.94 76.48 54.46
+triangle 70.07 42.09 11.59
+rectangle 68.81 64.91
+triangle 64.52 20.44 13.43
+rectangle 69.69 73.39
+rectangle 16.71 65.74
+circle 3.14
+circle 38.66
+circle 17.76
+rectangle 38.41 91.92
+circle 39.55
+rectangle 1.65 94.3
+circle 24.51
+rectangle 97.04 56.43
+rectangle 35.81 24.79
+triangle 13.15 30.03 37.55
+rectangle 83.07 2.76
+rectangle 24.75 56.17
+circle 19.01
+triangle 43.0 62.32 93.48
+rectangle 98.25 50.35
+rectangle 45.04 59.99
+rectangle 13.51 23.5
+rectangle 49.44 34.68
+circle 36.11
+rectangle 23.81 44.36
+rectangle 80.37 34.56
+triangle 64.85 80.51 82.88
+triangle 61.21 95.2 70.43
+triangle 9.58 19.52 77.58
+circle 27.69
+triangle 12.98 61.67 23.34
+triangle 51.33 15.44 15.71
+circle 38.62
+circle 79.0
+circle 95.14
+circle 58.63
+rectangle 0.5 26.09
+triangle 15.49 1.89 3.28
+triangle 39.8 47.41 66.3
+circle 5.11
+triangle 46.03 16.29 72.94
+triangle 46.16 62.89 64.2
+rectangle 9.09 51.45
+triangle 45.53 13.4 58.36
+rectangle 6.28 10.28
+triangle 51.18 44.25 51.84
+triangle 99.25 4.96 37.79
+circle 37.11
+circle 8.46
+triangle 35.28 84.69 42.31
+triangle 19.3 3.15 73.41
+triangle 43.6 80.0 30.96
+triangle 93.97 18.69 16.77
+circle 71.28
+circle 78.93
+rectangle 2.57 17.35
+triangle 63.62 97.59 6.16
+triangle 51.03 19.32 82.64
+rectangle 67.2 64.74
+rectangle 41.95 24.93
+circle 16.76
+triangle 99.27 49.39 94.76
+rectangle 16.27 51.57
+circle 36.22
+rectangle 34.59 24.51
+circle 48.99
+circle 68.71
+triangle 84.25 67.09 61.57
+rectangle 25.58 22.56
+circle 7.93
+rectangle 9.52 46.84
+triangle 91.97 81.67 7.65
+triangle 31.19 22.5 41.78
+rectangle 56.22 84.58
+circle 16.88
+rectangle 36.26 78.12
+triangle 42.96 88.49 24.48
+triangle 0.34 96.54 77.09
+circle 89.96
+triangle 2.41 67.01 55.25
+rectangle 63.52 22.19
+triangle 3.78 65.79 96.16
+rectangle 16.25 25.19
+triangle 35.05 64.04 11.31
+triangle 23.3 69.05 92.88
+circle 43.15
+rectangle 92.77 95.55
+circle 73.5
+circle 17.38
+rectangle 49.09 3.08
+triangle 45.49 26.9 37.26
+triangle 81.72 43.34 49.9
+rectangle 45.36 75.32
+rectangle 79.08 6.07
+triangle 87.59 47.67 11.49
+circle 32.79
+triangle 77.61 95.9 93.47
+triangle 87.15 75.81 83.97
+triangle 77.87 91.01 1.29
+rectangle 52.32 92.69
+circle 27.86
+circle 21.38
+triangle 73.47 19.98 39.79
+circle 90.9
+circle 65.48
+rectangle 32.03 28.77
+circle 81.1
+rectangle 51.28 46.64
+triangle 28.99 26.1 88.04
+circle 47.1
+triangle 5.46 50.67 12.92
+circle 80.67
+circle 80.47
+rectangle 87.7 53.4
+triangle 30.3 74.14 86.77
+circle 53.42
+rectangle 22.61 63.45
+circle 81.53
+rectangle 24.55 99.17
+rectangle 84.25 77.05
+circle 43.04
+circle 30.52
+triangle 17.73 43.81 35.6
+triangle 29.54 87.16 83.77
+rectangle 71.75 39.56
+circle 19.43
+triangle 35.45 67.01 67.78
+rectangle 56.78 83.2
+circle 21.15
+rectangle 25.33 64.56
+triangle 91.02 17.73 59.66
+rectangle 1.16 35.28
+triangle 99.8 73.27 42.87
+triangle 0.81 42.03 97.23
+triangle 58.51 94.8 33.11
+triangle 81.28 28.54 41.96
+triangle 10.6 94.75 65.36
+circle 48.92
+circle 67.56
+triangle 75.99 98.18 22.37
+rectangle 78.14 91.05
+circle 85.32
+circle 17.62
+circle 1.88
+rectangle 59.02 76.56
+circle 89.37
+circle 27.56
+rectangle 16.01 27.98
+circle 99.63
+circle 73.2
+triangle 10.34 76.67 91.32
+circle 6.93
+rectangle 6.26 94.26
+rectangle 88.81 93.29
+triangle 39.1 87.67 52.49
+rectangle 44.34 82.14
+triangle 35.54 18.39 88.01
+circle 73.0
+circle 77.45
+triangle 60.4 58.81 35.75
+circle 79.39
+triangle 80.27 21.51 76.55
+circle 20.67
+triangle 96.09 61.44 61.41
+rectangle 46.53 91.85
+circle 86.59
+triangle 93.37 34.03 48.15
+triangle 75.54 11.26 22.3
+rectangle 91.36 62.09
+rectangle 74.87 27.52
+triangle 31.39 14.19 16.54
+circle 7.5
+circle 38.22
+rectangle 9.43 2.37
+rectangle 67.69 39.43
+rectangle 18.06 0.23
+triangle 41.89 83.87 12.47
+triangle 83.75 0.37 25.03
+rectangle 6.15 50.17
+rectangle 97.35 84.07
+circle 18.65
+rectangle 34.61 32.42
+triangle 13.96 56.22 56.73
+rectangle 27.13 76.89
+rectangle 1.67 58.69
+circle 27.57
+rectangle 43.95 44.25
+rectangle 59.31 29.9
+rectangle 97.23 5.12
+triangle 47.06 37.71 7.93
+triangle 41.42 25.7 23.99
+triangle 21.63 60.49 6.26
+circle 19.22
+circle 62.46
+rectangle 75.16 32.29
+rectangle 81.86 19.76
+circle 72.38
+triangle 2.03 28.38 0.7
+circle 37.34
+triangle 63.16 26.34 50.23
+rectangle 20.18 6.33
+triangle 66.95 18.26 59.45
+circle 16.76
+rectangle 61.55 62.92
+triangle 59.33 30.33 71.85
+circle 64.4
+triangle 82.17 44.66 55.1
+circle 51.89
+circle 94.89
+circle 10.53
+circle 97.43
+triangle 55.5 89.68 40.7
+triangle 30.74 60.22 91.68
+triangle 90.43 23.03 68.26
+triangle 67.6 5.14 33.71
+circle 13.24
+rectangle 66.2 52.99
+circle 34.07
+rectangle 56.67 44.13
+triangle 4.96 13.13 77.06
+circle 68.82
+triangle 59.92 67.4 73.08
+triangle 90.29 43.46 32.41
+rectangle 68.71 31.92
+circle 37.91
+rectangle 41.14 51.52
+circle 94.64
+rectangle 99.84 84.65
+rectangle 64.39 70.31
+circle 26.35
+triangle 96.56 14.03 88.01
+circle 1.61
+triangle 7.68 63.11 14.34
+triangle 14.22 91.99 33.69
+triangle 74.01 76.98 43.79
+rectangle 76.56 68.06
+triangle 36.26 62.84 17.8
+triangle 28.43 36.76 89.45
+triangle 31.22 52.17 89.26
+circle 8.95
+circle 73.58
+triangle 69.78 5.06 61.17
+rectangle 73.88 60.08
+triangle 25.94 75.12 24.0
+circle 7.23
+triangle 9.89 33.16 35.68
+circle 43.56
+triangle 71.13 63.94 4.6
+rectangle 58.15 34.41
+triangle 84.4 61.52 67.95
+rectangle 57.53 46.1
+circle 60.32
+triangle 77.73 82.15 25.43
+rectangle 33.9 26.6
+triangle 90.22 4.17 72.73
+circle 80.69
+triangle 80.35 93.9 21.18
+rectangle 80.13 35.38
+circle 41.53
+triangle 6.13 94.05 8.92
+circle 32.94
+triangle 81.52 20.28 48.73
+rectangle 47.1 94.01
+circle 54.59
+circle 12.69
+triangle 31.1 90.07 27.77
+triangle 55.1 70.02 57.21
+rectangle 11.41 82.42
+triangle 15.86 61.1 62.98
+triangle 99.7 53.02 56.49
+triangle 36.46 72.17 2.54
+triangle 2.44 26.68 2.82
+rectangle 38.28 84.05
+rectangle 16.67 59.71
+triangle 22.28 99.94 10.59
+triangle 75.75 92.4 78.25
+rectangle 44.78 29.52
+triangle 14.48 59.56 32.68
+circle 86.89
+triangle 93.55 40.02 86.86
+circle 96.84
+triangle 61.05 44.12 81.93
+rectangle 85.08 14.16
+rectangle 1.34 48.08
+rectangle 4.23 70.36
+circle 26.98
+triangle 5.25 77.0 7.03
+circle 63.91
+circle 59.48
+rectangle 76.33 99.6
+circle 76.52
+triangle 23.04 13.84 39.1
+circle 46.91
+triangle 20.09 45.15 68.68
+triangle 6.79 63.56 60.17
+triangle 29.79 18.73 54.52
+circle 65.6
+rectangle 90.47 97.68
+triangle 62.61 54.55 51.72
+triangle 20.48 86.02 42.62
+rectangle 71.33 87.13
+triangle 14.07 19.18 11.44
+rectangle 51.86 36.6
+rectangle 26.63 25.45
+triangle 67.99 13.18 41.61
+circle 97.45
+triangle 66.52 41.14 8.99
+triangle 35.14 9.39 88.59
+rectangle 50.32 31.53
+rectangle 19.87 44.34
+triangle 34.64 22.34 92.18
+circle 54.98
+triangle 85.52 35.01 5.5
+triangle 99.11 41.87 56.15
+rectangle 7.15 9.83
+circle 48.04
+circle 72.14
+rectangle 46.29 73.17
+circle 13.11
+circle 82.96
+triangle 64.89 90.52 27.03
+triangle 10.85 79.13 17.87
+circle 69.78
+rectangle 87.0 23.96
+rectangle 10.27 93.23
+circle 66.09
+circle 48.01
+triangle 40.85 38.7 89.06
+triangle 66.4 3.92 90.56
+rectangle 77.8 46.23
+circle 21.51
+circle 22.56
+triangle 15.0 16.58 97.93
+triangle 81.51 83.91 4.02
+triangle 71.54 76.68 6.37
+circle 11.69
+rectangle 66.12 16.59
+circle 90.6
+circle 36.5
+circle 28.64
+rectangle 35.75 45.74
+circle 50.28
+rectangle 15.8 55.29
+triangle 20.93 76.31 98.85
+triangle 38.57 10.15 30.07
+circle 92.71
+circle 23.62
+rectangle 88.39 21.2
+triangle 86.87 97.76 43.9
+circle 62.83
+triangle 92.5 80.3 21.68
+rectangle 14.11 23.34
+rectangle 32.2 50.08
+circle 80.09
+circle 1.81
+rectangle 66.17 48.16
+circle 39.49
+circle 25.63
+rectangle 78.04 61.58
+circle 57.16
+rectangle 59.83 35.51
+circle 84.41
+rectangle 48.22 25.01
+circle 75.08
+circle 23.9
+triangle 82.2 30.9 27.86
+circle 97.02
+triangle 47.99 31.77 73.75
+circle 26.1
+circle 24.89
+circle 69.98
+triangle 13.59 73.96 26.8
+circle 45.47
+rectangle 76.73 68.28
+triangle 12.37 48.52 56.9
+rectangle 3.1 8.01
+triangle 89.99 19.89 46.69
+circle 28.75
+rectangle 2.52 74.18
+circle 25.11
+rectangle 3.46 28.87
+triangle 81.65 22.13 55.52
+triangle 7.61 82.66 83.64
+rectangle 86.88 27.24
+circle 55.38
+rectangle 93.54 49.59
+circle 12.04
+rectangle 95.54 1.77
+circle 8.5
+triangle 10.71 96.14 33.15
+circle 92.91
+circle 7.54
+triangle 66.58 68.14 40.18
+triangle 35.31 18.45 37.8
+rectangle 74.79 59.38
+circle 29.55
+triangle 52.31 80.69 79.66
+circle 24.88
+circle 93.17
+triangle 44.64 45.96 43.13
+triangle 39.38 22.75 29.89

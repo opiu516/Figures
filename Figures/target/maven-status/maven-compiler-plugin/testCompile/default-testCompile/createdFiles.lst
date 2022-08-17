@@ -1,0 +1,11 @@
+TestFigure.class
+TestCircle.class
+TestFigureFactory.class
+TestCircleFactory.class
+TestRandomFigureFactory.class
+TestRectangleFactory.class
+TestTriangle.class
+TestStreamFigureFactory.class
+TestRectangle.class
+TestSupportStuff.class
+TestTriangleFactory.class
